@@ -18,16 +18,16 @@ an empty result.
 
 The following test files are currently available:
 
-[Cloudflare preifxes](raw/main/ipnetdb-test-cloudflare-prefix.mmdb)
+[Cloudflare preifxes](blob/main/raw/main/ipnetdb-test-cloudflare-prefix.mmdb)
 - Contains information on prefixes advertised by Cloudflare
 
-[Cloudflare ASNs](raw/main/ipnetdb-test-cloudflare-asn.mmdb)
+[Cloudflare ASNs](blob/main/raw/main/ipnetdb-test-cloudflare-asn.mmdb)
 - Contains information on ASNs used by Cloudflare
 
-[Google prefixes](raw/main/ipnetdb-test-google-prefix.mmdb)
+[Google prefixes](blob/main/raw/main/ipnetdb-test-google-prefix.mmdb)
 - Contains information on prefixes advertised by Google
 
-[Google ASNs](raw/main/ipnetdb-test-google-asn.mmdb)
+[Google ASNs](blob/main/raw/main/ipnetdb-test-google-asn.mmdb)
  - Contains information on ASNs used by Google
 
 Additional test files are available on request. Please open an isssue
